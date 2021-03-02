@@ -5,8 +5,8 @@
 class Metacar
 {
     private $login                  = 'api_techincom_noreply@metacar.ru';
-    private $password               = '3VFWIfOeA3DtHwJFVrbgPsLuTS0=';
-    private $apiKey                 = 'dGVoaW5jb21lQG1heHBvc3Rlci5ydTpGMmtxbkQ1QkpI';
+    private $password               = 'password';
+    private $apiKey                 = 'apiKey';
     private $apiVehicleList         = 'https://metacar.ru/api/vehicles_sale_search';
     private $apiVehicleInfo         = 'https://metacar.ru/api/vehicle_sale_info';
     private $iblockUsedCars         = 35;
