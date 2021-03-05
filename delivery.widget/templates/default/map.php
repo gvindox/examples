@@ -2,7 +2,7 @@
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 use Bitrix\Main\Config\Option;
 
-$api_yandex_map_key = "bafdd550-1fae-4581-8d35-6821f778f16e";
+$api_yandex_map_key = "yandex_map_api_key";
 
 if ( !Option::get("fileman", "yandex_map_api_key") )
 {
